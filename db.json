@@ -1,0 +1,29 @@
+{
+  "todoLists": [
+    {
+      "id": 2,
+      "todo": "jajan mcd",
+      "status": false
+    },
+    {
+      "todo": "jajan kopi",
+      "status": false,
+      "id": 3
+    },
+    {
+      "todo": "jajan boba",
+      "status": false,
+      "id": 4
+    },
+    {
+      "todo": "jajan mikidi",
+      "status": "false",
+      "id": 5
+    },
+    {
+      "todo": "jajan mekede",
+      "status": "false",
+      "id": 6
+    }
+  ]
+}
